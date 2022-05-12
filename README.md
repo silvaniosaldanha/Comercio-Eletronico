@@ -5,7 +5,14 @@ Teste Comercio Eletrônico-JavaScript
                                                                             Descrição.
 
 Testes realizados em Selenium Web Driver com a linguagem JavaScript. Teste realizando os seguintes cenários no site Automation practice, login com sucesso, login inválido e login em branco.
- 
+
+
+Dados usados durante o teste:
+
+E-mail válido: silvaniosaldanha1@hotmail.com
+Senha válida: cypress
+Senha inválida: selenium
+
                                                                            Pré requisitos.
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
@@ -15,3 +22,4 @@ O navegador Google Chrome e o Chrome driver compatível com a versão do navegad
                                                                           Rodando os teste.
 Para rodar os testes após todas as configurações e estar com o projeto aberto no seu VS Code, abrir um novo terminal de digitar o comando node index. 
  
+Qualquer dúvida, entre em contato através do e-mail silvanio.saldanha@yahoo.com
